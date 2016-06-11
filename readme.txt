@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 My stupid boss still prefers SVN.
 Great! It works well!
 Create a new branch is quick and simple.
+Merge the branches whitout using Fast Forward mode.
