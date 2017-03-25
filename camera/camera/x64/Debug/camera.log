@@ -1,5 +1,11 @@
-﻿  camera.cpp
+﻿  hk_camera_dll.cpp
 D:\opencv3.1src\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
 D:\opencv3.1src\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
 D:\opencv3.1src\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  camera.vcxproj -> E:\VS2013\Projects\tmp\camera\x64\Debug\camera.exe
+  camera.cpp
+D:\opencv3.1src\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv3.1src\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv3.1src\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+     正在创建库 E:\VS2013\Projects\tmp\camera\x64\Debug\camera.lib 和对象 E:\VS2013\Projects\tmp\camera\x64\Debug\camera.exp
+  camera.vcxproj -> E:\VS2013\Projects\tmp\camera\x64\Debug\camera.dll
