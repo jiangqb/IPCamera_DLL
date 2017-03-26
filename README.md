@@ -1,5 +1,6 @@
 # IPCamera_DLL
 Packaging the IPCamera calling code into dll.
+OpenCV is needed!
 
 The IP Camera I use is the Hikvision camera.
 
